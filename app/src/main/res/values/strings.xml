@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lesson2</string>
+    <string name="welcome_text1">Привет!</string>
+    <string name="welcome_text2">Наслаждайся отоборочными. Будь внимательным. Делай хорошо.</string>
+    <string name="btn_login">Еще нет аккаунта? Зарегистрируйтесь</string>
+    <string name="title_activity_menu">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Sounds</string>
+    <string name="title_notifications">Profile</string>
+
+</resources>
